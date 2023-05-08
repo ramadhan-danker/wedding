@@ -1,0 +1,457 @@
+/* navbar */
+.navbar {
+    background: rgba(255, 255, 255, 0.5);
+    z-index: 9999999999;
+    width: 100%;
+}
+.navbar .btn-nav {
+    width: 151px;
+    height: 42px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.navbar .nav-link {
+    font-size: 15px;
+    font-weight: 700;
+}
+.navbar .navbar-brand {
+    font-size: 23px;
+    font-weight: 500;
+    color: white;
+    text-shadow: 1px 1px 0px black;
+}
+.nav-b {
+    text-shadow: 0px 0px 2px rgb(2, 2, 2);
+    color: white;
+}
+.nav-color {
+    background-color: #b1afff;
+    transition: all ease-in-out 0.4s;
+    border-bottom: #413f61;
+}
+bg-transparent {
+    transition: all ease-in 0.7s;
+}
+#sampul {
+    background-image: url(https://acarakami.com/wp-content/uploads/2022/12/catra-paper.jpg);
+    height: 657px;
+    width: 100%;
+}
+#sampul .image {
+    right: 0;
+    top: 0;
+}
+#sampul .image img {
+    height: 655px;
+}
+#sampul .sampul {
+    width: 800px;
+    padding: 82px 0px 0px 0px;
+    margin-left: 300px;
+}
+#sampul h5 {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    opacity: 0.5;
+}
+#sampul .romeo {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin: 62px 0px 20px 0px;
+}
+#sampul .juliet {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin: 20px 0px 20px 0px;
+}
+#sampul i {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    opacity: 0.5;
+}
+#sampul h4 {
+    font-family: "Waterfall", cursive;
+    font-size: 48px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    opacity: 0.5;
+}
+#sampul .wave {
+    width: 100%;
+    bottom: 0;
+}
+#sampul .wave svg {
+    height: 30px;
+    width: 100%;
+    bottom: 0;
+    color: #79766a;
+}
+#sampul .wave svg path {
+    fill: #79766a;
+}
+
+/* pasangan */
+#pasangan {
+    height: 800px;
+    background: #79766a;
+    padding-top: 100px;
+    margin-top: -20px;
+}
+#pasangan .row {
+    width: 820px;
+}
+#pasangan .row .col-6 {
+    height: 432px;
+    overflow: hidden;
+}
+#pasangan .row .col-6 img {
+    width: 370px;
+}
+#pasangan .row .col-6 .pasangan-card {
+    height: 432px;
+    width: 370px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#pasangan .btn-five {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 82px;
+    height: 23px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#pasangan .row .col-6 .pasangan-card .pasangan-title {
+    top: 0;
+    height: 432px;
+    width: 370px;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7));
+    color: white;
+}
+#pasangan .row .col-6 .pasangan-card .pasangan-title h1 {
+    font-family: "Waterfall", cursive;
+    font-size: 65px;
+    margin: 230px 0px 0px 25px;
+}
+#pasangan .row .col-6 .pasangan-card .pasangan-title h2 {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: -17px 0px 0px 30px;
+}
+#pasangan .row .col-6 .pasangan-card .pasangan-title p {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 20px 0px 0px 30px;
+    letter-spacing: 0.5px;
+}
+#pasangan h3 {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    width: 720px;
+    margin-top: 100px !important;
+}
+#pasangan h4 {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: "Waterfall", cursive;
+    width: 720px;
+}
+
+/* undangan */
+#undangan {
+    padding-top: 100px;
+    height: 1485px;
+    background-image: url(https://acarakami.com/wp-content/uploads/2022/12/catra-paper.jpg);
+}
+#undangan .undangan .video {
+    width: 800px;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    padding-top: 210px;
+}
+#undangan .undangan .video .play {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0px 0px 3px black;
+    padding-left: 10px;
+}
+#undangan .undangan .video .play i {
+    line-height: 55px;
+    color: white;
+    text-shadow: 0px 0px 3px black;
+}
+#undangan .undangan .acara {
+    color: #606060;
+    width: 800px;
+    margin-top: 120px;
+}
+#undangan .undangan .acara h1 {
+    font-size: 70px;
+    font-family: "Waterfall", cursive;
+}
+#undangan .undangan .acara .waktu {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#undangan .undangan .acara .tempat {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#undangan .undangan h2 {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Cormorant Garamond", serif;
+    letter-spacing: 1px;
+    margin: 20px 0px 0px 0px;
+    font-style: italic;
+}
+#undangan .undangan .acara h3 {
+    font-size: 15px;
+    font-weight: 800;
+    font-family: "Cormorant Garamond", serif;
+    letter-spacing: 1px;
+}
+#undangan .undangan .acara .keterangan {
+    width: 800px;
+    height: 195px;
+    margin-top: 20px;
+}
+#undangan .undangan .acara .keterangan .waktu {
+    width: 399px;
+    height: 195px;
+    padding: 40px 0px 110px 50px;
+}
+#undangan .undangan .acara .keterangan .tempat {
+    width: 399px;
+    height: 195px;
+    padding: 40px 0px 110px 50px;
+}
+
+/* gallery */
+#gallery {
+    background: #c8c2ae;
+    height: 732px;
+    padding-top: 100px;
+}
+#gallery .col-lg-8 .row img {
+    width: 249px;
+    height: 166px;
+}
+#gallery h1 {
+    font-size: 70px;
+    color: white;
+    font-family: "Cormorant Garamond", serif;
+}
+#gallery h2 {
+    font-size: 100px;
+    color: white;
+    font-family: "Waterfall", cursive;
+    opacity: 0.5;
+    margin: -90px 0px 0px 120px;
+}
+.swiper {
+    width: 100%;
+    height: 332px;
+}
+
+.swiper-slide {
+    height: 332px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 332px;
+    object-fit: cover;
+}
+
+/* ucapan */
+#ucapan {
+    background: #79766a;
+    height: 548px;
+    padding: 80px 0px 0px 0px;
+}
+#ucapan .ucapan-body {
+    width: 798px;
+    margin-right: 100px;
+}
+#ucapan .ucapan-title {
+    width: 342px;
+    margin-left: 105px;
+    padding-top: 170px;
+}
+#ucapan .ucapan-title h1 {
+    font-size: 80px;
+    color: white;
+    font-family: "Cormorant Garamond", serif;
+}
+#ucapan .ucapan-title h2 {
+    font-size: 90px;
+    color: white;
+    font-family: "Waterfall", cursive;
+    opacity: 0.5;
+    margin: -80px 0px 0px 120px;
+}
+#ucapan .kartu-ucapan {
+    width: 778px;
+    background: #f5f3ee;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+#ucapan .kartu-ucapan .heading {
+    width: 778px;
+    height: 37px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-top: 6px;
+    margin-bottom: 19px;
+}
+#ucapan .kartu-ucapan .heading img {
+    width: 14px;
+    height: 14px;
+    margin-left: 15px;
+    filter: invert(43%) sepia(23%) saturate(714%) hue-rotate(2deg)
+        brightness(89%) contrast(83%);
+}
+#ucapan .kartu-ucapan .heading span {
+    font-family: "Merriweather", serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #7b6945;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body .mb-3 {
+    font-family: "Merriweather", serif;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body input {
+    width: 736px;
+    height: 28px;
+    border-radius: 3px;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body input::placeholder {
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body textarea {
+    width: 736px;
+    border-radius: 3px;
+    margin-left: 20px;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body textarea::placeholder {
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body select {
+    width: 736px;
+    border-radius: 3px;
+    margin-left: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body .btn-four {
+    margin-left: 16px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    padding: 5px 15px 5px 15px;
+    font-weight: 600;
+}
+#ucapan .kartu-ucapan-comment {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    margin-top: 70px;
+}
+#ucapan .kartu-ucapan-comment .comment1 {
+    width: 1130px;
+}
+#ucapan .kartu-ucapan-comment .comment {
+    width: 1130px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+#ucapan .kartu-ucapan-comment .comment .col-1,
+#ucapan .kartu-ucapan-comment .comment1 .col-1 {
+    width: 50px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+#ucapan .kartu-ucapan-comment .comment .col-11,
+#ucapan .kartu-ucapan-comment .comment1 .col-11 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#ucapan .kartu-ucapan-comment img {
+    width: 18px;
+    height: 18px;
+    filter: invert(43%) sepia(23%) saturate(714%) hue-rotate(2deg)
+        brightness(89%) contrast(83%);
+}
+#ucapan .kartu-ucapan-comment .btn-four {
+    width: 50px;
+    height: 20px;
+    font-size: 10px;
+    font-family: "Merriweather", serif;
+    padding: 0px 0px 0px 0px;
+    margin-top: 3px;
+}
+#ucapan .kartu-ucapan-comment h5 {
+    width: 60px;
+    font-size: 12px;
+    font-family: "Merriweather", serif;
+    color: #7b6945;
+    font-weight: 600;
+    margin-top: 5px;
+}
+#ucapan .kartu-ucapan-comment .bi-clock {
+    font-size: 10px;
+    text-decoration: none;
+    margin-bottom: 17px;
+    color: #7b6945;
+    font-family: "Merriweather", serif;
+}
+#ucapan .kartu-ucapan-comment p {
+    font-size: 12px;
+    font-family: "Merriweather", serif;
+}
+
+/* footer */
+#footer {
+    height: 235px;
+    padding-top: 83px;
+    background: #79766a;
+}
+#footer h1 a {
+    font-family: "Marcellus", serif;
+    color: #ffffff;
+    font-size: 15px;
+}
+#footer h2 {
+    color: #ffffff;
+    font-size: 12px;
+}

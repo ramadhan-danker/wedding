@@ -1,0 +1,96 @@
+.halaman3 #GALERI h2::before {
+    content: "Our Gallery";
+    background: #fff;
+    width: 166px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -70px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}
+.container0 h2::before {
+    content: "Our Video";
+    background: #fff;
+    width: 148px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -60px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}
+.container4 .story h2::before {
+    content: "Our Story";
+    background: #fff;
+    width: 148px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -60px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}
+.container6 h2::before {
+    content: "Countdown";
+    background: #fff;
+    width: 148px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -60px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}
+.container7 h2::before {
+    content: "Gift";
+    background: #fff;
+    width: 77px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -25px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}
+.container8 h2::before {
+    content: "Guesst Book";
+    background: #fff;
+    width: 165px;
+    height: 66px;
+    border: 3px solid rgb(241,112,125);
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -60px;
+    font-family: "Caveat", cursive;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 400;
+    color: rgb(241,112,125);
+    padding-top: 8px;
+}

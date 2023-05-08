@@ -1,0 +1,433 @@
+@media screen and (max-width : 350px) {
+    #sampul .sampul {
+        background-size: 100% !important;
+        background-position-x: 0px !important;
+        background-position-y: -10px !important;
+    }
+    #sampul .sampul .beranda {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 150px !important;
+    }
+    #sampul .sampul .beranda h4 {
+        margin-left: -0px !important;
+        margin-top: 0px !important;
+        font-size: 21px !important;
+        line-height: 31px !important;
+        font-weight: 600 !important;
+    }
+    #sampul .sampul .beranda h1 {
+        font-size: 56px !important;
+        line-height: 86px !important;
+        font-weight: 400 !important
+    }
+    #sampul .sampul .beranda h5 {
+        margin-top: -10px !important;
+    }
+    #sampul .sampul .beranda .t1 {
+        margin-top: 0px !important;
+    }
+    #sampul .sampul img {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 535px !important;
+    }
+
+    .halaman {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman .notes {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman .notes .protokol {
+        margin-top: 10px !important;
+    }
+    .halaman .notes p {
+        width: 310px !important;
+        margin-left: 20px !important;
+        font-size: 16px !important;
+        line-height: 24px !important;
+        font-weight: 400 !important
+    }
+    .halaman .notes .container {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman .notes .row {
+        width: 350px !important;
+        margin-left: 10px !important;
+    }
+    .halaman .notes .col-6 {
+        width: 158px !important;
+        margin-left: -5px !important;
+    }
+    .halaman .notes .col-6 .text1 {
+        margin-left: -7px !important;
+        width: 150px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+    .halaman .notes .col-6 .text2 {
+        margin-left: -7px !important;
+        width: 150px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+    .halaman .notes .col-6 .text3 {
+        margin-left: 5px !important;
+        width: 130px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+
+    .halaman1 {
+        width: 350px !important;
+        height: 1800px !important;
+    }
+    .halaman1 p {
+        width: 310px !important;
+        margin-left: 20px !important;
+    }
+    .halaman1 .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman1 .row .romeo {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman1 .row .juliet {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 100px !important;
+    }
+
+    .halaman2 {
+        width: 350px !important;
+        margin-left: 0px !important;
+        height: 1500px !important;
+    }
+    .halaman2 .img1 {
+        margin-left: -150px !important;
+    }
+    .halaman2 .img2 {
+        margin-left: 60px !important;
+        margin-top: 20px !important;
+    }
+    .halaman2 .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman2 .col-4 {
+        width: 350px !important;
+        margin-left: 2px !important;
+    }
+    .halaman2 .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman2 .row .a {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman2 .row .btn1 {
+        margin-left: 40px !important;
+    }
+    .halaman2 .row .btn2 {
+        margin-left: -20px !important;
+    }
+
+    .halaman3 {
+        width: 350px !important;
+        margin-left: 0px !important;
+        height: 1900px !important;
+    }
+    .halaman3 .galeriimg {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman3 .galeriimg .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .halaman3 .galeriimg .row img {
+        width: 155px !important;
+        height: 192px !important;
+        margin-left: -30px !important;
+    }
+    .halaman3 .galeri .galeriimg .row {
+        width: 350px !important;
+        margin-left: 15px !important;
+    }
+    .halaman3 .galeri .galeriimg .row .col-3 {
+        width: 165px !important;
+        margin-top: 10px !important;
+        margin-left: 0px !important;
+    }
+    .halaman3 .galeri .galeriimg .row .col-3 .img5 {
+        margin-top: -7px !important;
+    }
+    .halaman3 .galeri .galeriimg .row .col-3 .img6 {
+        margin-top: -7px !important;
+    }
+    .halaman3 .galeri .galeriimg .row .col-3 .img9 {
+        margin-top: -7px !important;
+    }
+    .halaman3 .galeri .galeriimg .row .col-3 .img10 {
+        margin-top: -7px !important;
+    }
+    .halaman3 .container .row .video {
+        height: 200px !important;
+    }
+
+    .quote {
+        margin-left: 0px !important;
+        width: 350px !important;
+        margin-top: -50px !important;
+    }
+    .quote p {
+        width: 310px !important;
+        margin-left: 20px !important;
+        margin-top: 40px !important;
+    }
+
+    .container4 {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: -20px !important;
+    }
+    .container4 .story {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container4 .story .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container4 .story .row .col-4 {
+        width: 350px !important;
+        margin-left: -20px !important;
+    }
+    .container4 .story .row .col-8 {
+        width: 350px !important;
+        margin-left: 0px !important;
+        
+    }
+    .container4 .story .row .img1 {
+        width: 304px !important;
+        height: 304px !important;
+        margin-left: 0px !important;
+    }
+    .container4 .story .row .img2 {
+        width: 304px !important;
+        height: 304px !important;
+        margin-left: 20px !important;
+    }
+    .container4 .story .row .img3 {
+        width: 304px !important;
+        height: 304px !important;
+        margin-left: 20px !important;
+    }
+    .container4 .story .row h6 {
+        font-size: 16px !important;
+        line-height: 28px !important;
+        text-align: center;
+    }
+    .container4 .story .row i {
+        margin-left: 0px !important;
+    }
+    .container4 .story .row p {
+        margin-left: -5px !important;
+        width: 310px !important;
+        text-align: center;
+    }
+
+    .container6 {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container6 .countdown {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container6 .countdown .timer {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container6 .countdown .row {
+        width: 350px !important;
+        margin-left: -20px !important;
+    }
+    .countdown .timer .row .col-3 {
+        width: 70px !important;
+        margin-left: 10px !important;
+    }
+    .countdown .timer .row .col-3 h5 {
+        font-size: 14px !important;
+    }
+    .countdown .timer .row .col-3 .t1 {
+        margin-left: 0px !important;
+    }
+    .countdown .timer .row .col-3 .t2 {
+        margin-left: 8px !important;
+    }
+    .countdown .timer .row .col-3 .t3 {
+        margin-left: -10px !important;
+    }
+    .countdown .timer .row .col-3 .t4 {
+        margin-left: -10px !important;
+    }
+
+        /* GIFT */
+        .container7 {
+            margin-top: 110px !important;
+            width: 350px !important;
+            margin-left: 0px !important;
+        }
+        .container7 h5 {
+        margin-top: -50px !important
+        }
+        .container7 .gift {
+            width: 350px !important;
+            margin-left: -200px !important;
+        }
+        .container7 .gift .bca {
+            width: 306px !important;
+            margin-left: 210px !important;
+        }
+        .container7 .gift .bca .img1 {
+            margin-left: 200px !important;
+        }
+        .container7 .alamat {
+            width: 306px !important;
+            margin-left: 10px !important;
+            margin-top: 20px !important;
+        }
+        .container7 .alamat img {
+            margin-left: 220px !important;
+        }
+        .container7 .jln {
+            width: 306px !important;
+            margin-left: 10px !important;
+            margin-top: 0px !important;
+        }
+        .container7 .qr {
+            width: 306px !important;
+            margin-left: 10px !important;
+            margin-top: 20px !important;
+        }
+        .container7 .qr img {
+            margin-left: 180px !important;
+        }
+        .container7 .ovo {
+            width: 306px !important;
+            margin-left: 10px !important;
+            margin-top: 0px !important;
+        }
+        
+        /* QUESTBOOK */
+        .container8 {
+            margin-top: 40px !important;
+            width: 350px !important;
+            margin-left: 0px !important;
+        }
+        .container8 .book {
+            width: 306px !important;
+            margin-left: 10px !important;
+        }
+        .container8 .book form {
+            width: 263px !important;
+        }
+        .container8 .book .t1 {
+            margin-left: -235px !important;
+            margin-top: 15px !important;
+        }
+        .container8 .row {
+            width: 360px !important;
+            margin-left: 65px !important;
+        }
+        .container8 .row .col-6 .form-floating {
+            width: 107px !important;
+            margin-left: -55px !important;
+            padding-right: 0px !important;
+        }
+        .container8 .row .col-6 .form2 {
+            width: 107px !important;
+            margin-left: -81px !important;
+            padding-right: 0px !important;
+        }
+        .container8 .book .ucapan {
+            width: 263px !important;
+        }
+        .container8 .book .btn {
+            margin-left: 195px !important;
+        }
+    
+        /* SCROLL */
+        .scroll {
+            width: 320px !important;
+            margin-left: 5px !important;
+            height: 300px !important;
+        }
+        .scroll .comment {
+            height: 300px !important;
+            width: 320px !important;
+            margin-left: 0px !important;
+        }
+        .scroll .comment .row .col-4 .img1 {
+            width: 28px !important;
+            margin-left: -180px !important;
+        }
+        .scroll .comment .row .col-4 .img2 {
+            width: 28px !important;
+            margin-left: -630px !important;
+            margin-top: 30px !important;
+        }
+        .scroll .comment .row .komen {
+            width: 238px !important;
+            margin-left: -125px !important;
+        }
+        .scroll .comment .row .komen1 {
+            width: 238px !important;
+            margin-left: -5px !important;
+            margin-top: -30px !important;
+        }
+        .scroll .comment .row .col-8 h6 {
+            font-size: 12px !important;
+            line-height: 18px !important;
+            font-weight: 600 !important;
+            margin-left: 0px !important;
+        }
+        .scroll .comment .row .t1 {
+            margin-left: -133px !important;
+        }
+    
+        /* FOOTER */
+        .footer .img1 {
+            width: 180px !important;
+            margin-left: 45px !important;
+            margin-top: 50px !important;
+            position: relative;
+        }
+        .menu {
+            width: 350px !important;
+            margin-left: 0px !important;
+            position: fixed !important;
+        }
+        .menu .row {
+            width: 350px !important;
+            margin-left: 0px !important;
+            position: fixed;
+            bottom: 0 !important;
+        }
+        .menu .row .col-1 {
+            width: 10px !important;
+            height: 45px !important;
+            margin-left: 20px !important;
+        }
+}

@@ -1,0 +1,274 @@
+@media screen and (max-width : 350px) {
+    #sampul .background {
+        background-position: -230px -130px !important;
+        background-size: 210% !important;
+    }
+    .judul .t1 {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+        line-height: 20px !important;
+        margin-left: -700px !important;
+        margin-top: 170px !important;
+    }
+    .judul .t2 {
+        font-size: 35px !important;
+        font-weight: 600 !important;
+        line-height: 35px !important;
+        margin-left: -695px !important;
+        margin-top: 20px !important;
+    }
+    .judul .t3 {
+        font-size: 35px !important;
+        font-weight: 600 !important;
+        line-height: 35px !important;
+        margin-left: -695px !important;
+        margin-top: 0px !important;
+    }
+    .judul .t4 {
+        font-size: 35px !important;
+        font-weight: 600 !important;
+        line-height: 35px !important;
+        margin-left: -695px !important;
+        margin-top: 0px !important;
+    }
+    .judul .t5 {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+        line-height: 20px !important;
+        margin-left: -700px !important;
+        margin-top: 20px !important;
+    }
+    .judul .t6 {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+        line-height: 20px !important;
+        margin-left: -700px !important;
+        margin-top: 0px !important;
+    }
+    .judul .t7 {
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        line-height: 20px !important;
+        margin-left: -475px !important;
+        margin-top: 40px !important;
+        width: 250px !important;
+    }
+
+    .akad {
+        width: 360px !important;
+        margin-top: -50px !important;
+    }
+    .akad img {
+        margin-left: -10px !important;
+    }
+    .akad h2 {
+        margin-left: -10px !important;
+    }
+    .akad h3 {
+        margin-left: -5px !important;
+        margin-top: 90px !important;
+    }
+    .akad .doa {
+        width: 330px !important;
+        margin-left: 10px !important;
+        margin-top: 60px !important;
+    }
+    .akad .doa h6 {
+        width: 330px !important;
+        margin-left: 0px !important;
+    }
+    .akad .row .romeo {
+        margin-left: 10px !important;
+        width: 360px !important;
+    }
+    .akad .row .romeo h3 {
+        margin-top: 30px !important;
+    }
+    .akad .row .romeo p {
+        margin-top: 30px !important;
+    }
+    .akad .row .romeo .t1 {
+        margin-top: -10px !important;
+    }
+    .akad .row .juliet {
+        margin-left: 15px !important;
+        width: 360px !important;
+        margin-top: 30px !important;
+    }
+    .akad .row .juliet h3 {
+        margin-top: 30px !important;
+    }
+    .akad .row .juliet p {
+        margin-top: 30px !important;
+    }
+    .akad .row .juliet .t1 {
+        margin-top: -10px !important;
+    }
+    .akad .salam h3 {
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+    }
+    .akad .salam p {
+        width: 310px !important;
+        margin-left: 20px !important;
+        margin-top: 20px !important;
+    }
+    .akad .tanggal {
+        margin-left: 33px !important;
+    }
+    .akad .waktu {
+        margin-left: 33px !important;
+        margin-top: 120px !important;
+    }
+    .akad .ucapan {
+        margin-left: -340px !important;
+    }
+    .akad .ucapan .t1 {
+        width: 310px !important;
+    }
+    .akad .ucapan .t2 {
+        width: 310px !important;
+    }
+    .akad .kel h3 {
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        width: 310px !important;
+        margin-left: 20px !important;
+    }
+    .akad .kel p {
+        margin-left: 20px !important;
+        width: 310px !important;
+    }
+    .img img {
+        width: 350px !important;
+        height: 197px !important;
+    }
+    .img i {
+        margin-left: 130px !important;
+        width: 65px !important;
+        height: 65px !important;
+        margin-top: 60px !important;
+    }
+    .galeri {
+        margin-left: -140px !important;
+    }
+    .galeri .t1 {
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        margin-top: -5px !important;
+        margin-left: 130px !important;
+    }
+    .galeri .swiper {
+        width: 350px !important;
+        margin-left: 140px !important;
+    }
+    .galeri .swiper .swiper-wrapper {
+        width: 330px !important;
+        
+    }
+    .galeri .swiper .swiper-slide {
+        width: 320px !important;
+        height: 220px !important;
+        margin-left: -5 !important;
+    }
+    .galeri .swiper img {
+        width: 330px !important;
+        height: 220px !important;
+    }
+    .galeri .swiper-button-next {
+        font-size: 25px !important;
+        color: white !important;
+        margin-top: -30px !important;
+        width: 25px !important;
+        height: 25px !important;
+    }
+    .galeri .swiper-button-next::after {
+        font-size: 25px !important;
+        color: white !important;
+        margin-top: -30px !important;
+        width: 25px !important;
+        height: 25px !important;
+    }
+    .galeri .swiper-button-prev::after {
+        font-size: 25px !important;
+        color: white !important;
+        margin-top: -70px !important;
+        width: 25px !important;
+        height: 25px !important;
+    }
+    .timer {
+        width: 350px !important;
+        margin-left: -150px !important;
+        margin-top: -60px !important;
+    }
+    .timer h3 {
+        margin-left: 10px !important;
+    }
+    .timer .t1 {
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        margin-top: -0px !important;
+        margin-left: 150px !important;
+        width: 350px !important;
+    }
+    .timer .row {
+        margin-left: 160px !important;
+    }
+    .timer .row .col-3 {
+        width: 80px !important;
+        font-size: 40px !important;
+        line-height: 40px !important;
+        font-weight: 400 !important;
+    }
+    .timer .row .col-3 p {
+        margin-left: -5px !important;
+        font-size: 15px !important;
+        line-height: 15px !important;
+        font-weight: 600px !important;
+        margin-top: -15px !important;
+    }
+    .timer .row .col-3 img {
+        margin-left: -210px !important;
+        margin-top: 80px !important;
+    }
+    .lokasi {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: -50px !important;
+    }
+    .lokasi h3 {
+        font-size: 30px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        margin-top: 100px !important;
+        margin-left: -20px !important;
+        width: 350px !important;
+    }
+    .lokasi iframe {
+        margin-top: 20px !important;
+        width: 350px !important;
+        height: 450px !important;
+        margin-left: -22px !important;
+    }
+    .lokasi .btn {
+        margin-top: 50px !important;
+        margin-left: -15px !important;
+    }
+    .timer .icon {
+        width: 350px !important;
+        margin-left: -5px !important;
+    }
+    .timer .icon h3 {
+        margin-left: 0px !important;
+        margin-top: 20px !important;
+    }
+    .timer .icon .t1 {
+        margin-top: -10px !important;
+        margin-left: -10px !important;
+        margin-bottom: 100px !important;
+    }
+}

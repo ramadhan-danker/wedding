@@ -1,0 +1,107 @@
+.btn-nav {
+    background: #0086ff;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.5s ease-in-out;
+}
+.btn-nav:hover {
+    background: #49aaff;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.5s ease-in-out;
+}
+
+.btn-first {
+    background: #313131;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-first:hover {
+    background: #a49559;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-second {
+    background: #ffffff;
+    border: 0ch;
+    color: #313131;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-second:hover {
+    background: #bfbbac;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-third {
+    background: #313131;
+    border: 0ch;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-third:hover {
+    background: #bfbbac;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-four {
+    background: #8b774e;
+    border: 0ch;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-four:hover {
+    background: #8b774e;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn-five {
+    background: rgba(255, 255, 255, 0);
+    color: white;
+    border: 1px solid white;
+    transition: 0.3s ease-in-out;
+}
+.btn-five:hover {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    transition: 0.3s ease-in-out;
+}
+.btn-six {
+    background: #634837;
+    color: white;
+    border: 0ch;
+    transition: 0.3s ease-in-out;
+}
+.btn-six:hover {
+    background: #89624a;
+    color: rgb(255, 255, 255);
+    border: 0ch;
+    transition: 0.3s ease-in-out;
+}
+.btn-seven {
+    background: #d59d59;
+    color: white;
+    border: 0ch;
+    transition: 0.3s ease-in-out;
+}
+.btn-seven:hover {
+    background: #ffffff;
+    color: #d59d59;
+    border: 0ch;
+    transition: 0.3s ease-in-out;
+}

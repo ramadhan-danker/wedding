@@ -1,0 +1,541 @@
+@media screen and (max-width : 350px) {
+    .img img {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+    .hello p {
+        margin-top: -68px !important;
+    }
+    .hello h3 {
+        margin-top: 25px !important;
+    }
+    .container .row {
+        margin-left: -505px !important;
+        width: 360px !important;
+    }
+    .container .row .col-4 {
+        width: 50px !important;
+        margin-left: 0px !important;
+    }
+    .dear p {
+        font-size: 14px !important;
+        line-height: 21px !important;
+        font-weight: 400 !important;
+        margin-left: -3px !important;
+        
+    }
+
+    /* NOTES */
+    .Notes h4 {
+        margin-top: -50px !important;
+    }
+    .Notes p {
+        width: 315px !important;
+        margin-left: 10px !important;
+    }
+    .Notes .container .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .container .row .col-6 {
+        width: 158px !important;
+        margin-left: -5px !important;
+    }
+    .container .row .col-6 .text1 {
+        margin-left: -23px !important;
+        width: 180px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+    .container .row .col-6 .text2 {
+        margin-left: -15px !important;
+        width: 180px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+    .container .row .col-6 .text3 {
+        margin-left: 5px !important;
+        width: 130px !important;
+        font-size: 13px !important;
+        line-height: 19px !important;
+        font-weight: 400 !important;
+    }
+
+    /* BRIDE & GROOM */
+    .container .img img {
+        width: 320px !important;
+        height: 178px !important;
+        margin-top: -40px !important;
+    }
+    .container .bride {
+        width: 350px !important;
+    }
+    .container .bride h5 {
+        width: 320px !important;
+        font-size: 32px !important;
+        font-weight: 400px !important;
+        line-height: 35px !important;
+        margin-top: 30px !important;
+    }
+    .container .bride .text1 {
+        width: 257px !important;
+        font-size: 14px !important;
+        line-height: 21px !important;
+        font-weight: 400px !important;
+        font-style: italic !important;
+        margin-left: 30px !important;
+    }
+    .container .bride .text2 {
+        width: 300px !important;
+        margin-left: 15px !important;
+    }
+    .profile .container .row .img1 {
+        width: 225px !important;
+        margin-left: 555px !important;
+        border-radius: 50% !important;
+    }
+    .profile .container .row .img2 {
+        width: 285px !important;
+        margin-left: 524px !important;
+        margin-top: -255px !important;
+    }
+    .profile .container .row h5 {
+        font-size: 26px !important;
+        line-height: 32px !important;
+        font-weight: 700px !important;
+        margin-left: 630px !important;
+    }
+    .profile .container .row h6 {
+        font-size: 18px !important;
+        line-height: 25px !important;
+        font-weight: 700px !important;
+        margin-left: 605px !important;
+        width: 170px !important;
+    }
+    .profile .container .row p {
+        font-size: 14px !important;
+        line-height: 21px !important;
+        font-weight: 400px !important;
+        margin-left: 550px !important;
+        width: 230px !important;
+        text-align: center;
+    }
+    .profile .container .row .lok {
+        margin-left: 620px !important;
+    }
+    .profile .container .row .text1 {
+        margin-left: 640px !important;
+        margin-top: -20px !important;
+        position: absolute;
+        text-decoration-style: none;
+    }
+    .profile .container .row a {
+        margin-left: 655px !important;
+        width: 315px !important;
+        display: inline-block;
+    }
+    .profile .container .profile2 {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+
+    /* AKAD */
+    .container1 .container {
+        width: 350px !important;
+    }
+    .container1 .row {
+        width: 350px !important;
+    }
+    .container1 .row .col-4 {
+        width: 308px !important;
+        margin-left: 515px !important;
+    }
+    .container1 .row .imgtopleft {
+        margin-left: -154px !important;
+    }
+    .container1 .row .imgtopright {
+        margin-left: 104px !important;
+    }
+    .container1 .row .imgbottomleft {
+        margin-left: -204px !important;
+        margin-top: 2px !important;
+    }
+    .container1 .row .imgbottomright {
+        margin-left: 54px !important;
+        margin-top: 2px !important;
+    }
+    .container1 .row .imgbottomleft1 {
+        margin-left: -204px !important;
+        margin-top: 0px !important;
+    }
+    .container1 .row .imgbottomright1 {
+        margin-left: 54px !important;
+        margin-top: 0px !important;
+    }
+    .container1 .row .ud2 {
+        margin-top: 60px !important;
+    }
+    .container1 .row .ud3 {
+        margin-top: 60px !important;
+    }
+    .container1 .row .col-4 .text1 {
+        margin-left: 70px !important;
+    }
+    .container1 .row .col-4 .text2 {
+        margin-left: 55px !important;
+    }
+    .container1 .row .ud2 {
+        height: 252px !important;
+    }
+    .container1 .row .ud2 .text1 {
+        margin-left: 10px !important;
+    }
+    .container1 .row .ud2 .text2 {
+        margin-left: 80px !important;
+    }
+    .container1 .row .btn {
+        margin-top: -15px !important;
+    }
+    .container1 .row .ud3 {
+        height: 252px !important;
+    }
+    .container1 .row .ud3 .text1 {
+        margin-left: 55px !important;
+    }
+    .container1 .row .ud3 .text2 {
+        margin-left: 75px !important;
+    }
+    .container1 .row .link1 {
+        width: 350px !important;
+        margin-left: 610px !important;
+        border: 0ch !important;
+        border-radius: 20% !important;
+        margin-top: 80px !important;
+        position: absolute;
+    }
+    .container1 .row .link2 {
+        width: 350px !important;
+        margin-left: 1155px !important;
+        border: 0ch !important;
+        border-radius: 20% !important;
+        margin-top: 80px !important;
+        position: absolute;
+    }
+    .container1 .row a .link .btn1 {
+        width: 109px !important;
+        margin-left: 0px !important;
+    }
+
+    /* GALERI */
+    .container2 {
+        width: 350px !important;
+        margin-top: 250px !important;
+    }
+    .container2 .row {
+        width: 350px !important;
+        margin-left: -487px !important;
+    }
+    .container2 .row .col-3 {
+        width: 158px !important;
+        margin-left: 800px !important;
+    }
+    .container2 .row .col-3 img {
+        width: 158px !important;
+        margin-left: -20px !important;
+    }
+    .container2 .row .col-3 .img2 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img4 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img6 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img8 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img10 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img12 {
+        margin-left: 80px !important;
+        margin-top: -168px !important;
+        position: absolute;
+    }
+    .container2 .row .col-3 .img1 {
+        margin-top: 10px !important;
+    }
+    .container2 .row .col-3 .img3 {
+        margin-top: 10px !important;
+    }
+    .container2 .row .col-3 .img5 {
+        margin-top: 0px !important;
+    }
+    .container2 .row .col-3 .img7 {
+        margin-top: 10px !important;
+    }
+    .container2 .row .col-3 .img9 {
+        margin-top: 0px !important;
+    }
+    .container2 .row .col-3 .img11 {
+        margin-top: 10px !important;
+    }
+
+
+    /* VIDEO */
+    .container3 .video {
+        width: 350px !important;
+        height: 226px !important;
+        margin-left: 978px !important;
+    }
+
+    /* STORY */
+    .container4 {
+        width: 360px !important;
+        margin-top: 60px !important;
+    }
+    .container4 h5 {
+        margin-left: -30px !important;
+    }
+    .container4 .story .row {
+        width: 360px !important;
+    }
+    .container4 .story .row .img1 {
+        width: 306px !important;
+        height: 306px !important;
+        margin-left: 490px !important;
+    }
+    .container4 .story .row .img2 {
+        width: 306px !important;
+        height: 306px !important;
+        margin-left: 200px !important;
+        margin-top: 590px !important;
+    }
+    .container4 .story .row .img3 {
+        width: 306px !important;
+        height: 306px !important;
+        margin-left: 250px !important;
+        margin-top: 260px !important;
+    }
+    .container4 .story .row h6 {
+        margin-left: 440px !important;
+        width: 150px !important;
+        margin-top: 320px !important;
+    }
+    .container4 .story .row i {
+        margin-left: 440px !important;
+        display: inline-block;
+        width: 360px !important;
+    }
+    .container4 .story .row p {
+        margin-left: 440px !important;
+        width: 306px !important;
+    }
+    .container4 .story .row .story2 h6 {
+        margin-left: 490px !important;
+        width: 150px !important;
+        margin-top: -10px !important;
+    }
+    .container4 .story .row .story2 i {
+        margin-left: 490px !important;
+    }
+    .container4 .story .row .story2 p {
+        margin-left: 490px !important;
+    }
+
+    /* QUOTE */
+    .container5 {
+        margin-top: 20px !important;
+    }
+    .container5 p {
+        margin-top: 30px !important;
+    }
+
+    /* COUNTDOWN */
+    .container6 {
+        width: 360px !important;
+        margin-left: -30px !important;
+        margin-top: 40px !important;
+    }
+    .container6 .countdown {
+        width: 360px !important;
+    }
+    .countdown .timer .row {
+        margin-left: 0px !important;
+        width: 360px !important;
+    }
+    .countdown .timer .row .col-3 {
+        width: 70px !important;
+        margin-left: 10px !important;
+    }
+    .countdown .timer .row .col-3 h5 {
+        font-size: 14px !important;
+    }
+    .countdown .timer .row .col-3 .t1 {
+        margin-left: 0px !important;
+    }
+    .countdown .timer .row .col-3 .t2 {
+        margin-left: 8px !important;
+    }
+    .countdown .timer .row .col-3 .t3 {
+        margin-left: -10px !important;
+    }
+    .countdown .timer .row .col-3 .t4 {
+        margin-left: -10px !important;
+    }
+
+
+    /* GIFT */
+    .container7 {
+        margin-top: 110px !important;
+    }
+    .container7 h5 {
+    margin-top: -50px !important
+    }
+    .container7 .gift {
+        width: 360px !important;
+        margin-left: -200px !important;
+    }
+    .container7 .gift .bca {
+        width: 306px !important;
+        margin-left: 195px !important;
+    }
+    .container7 .gift .bca .img1 {
+        margin-left: 200px !important;
+    }
+    .container7 .alamat {
+        width: 306px !important;
+        margin-left: -5px !important;
+        margin-top: 20px !important;
+    }
+    .container7 .alamat img {
+        margin-left: 220px !important;
+    }
+    .container7 .jln {
+        width: 306px !important;
+        margin-left: -5px !important;
+        margin-top: 0px !important;
+    }
+    .container7 .qr {
+        width: 306px !important;
+        margin-left: -5px !important;
+        margin-top: 20px !important;
+    }
+    .container7 .qr img {
+        margin-left: 180px !important;
+    }
+    .container7 .ovo {
+        width: 306px !important;
+        margin-left: -5px !important;
+        margin-top: 0px !important;
+    }
+    
+    /* QUESTBOOK */
+    .container8 {
+        margin-top: 40px !important;
+    }
+    .container8 .book {
+        width: 306px !important;
+        margin-left: -5px !important;
+    }
+    .container8 .book form {
+        width: 263px !important;
+    }
+    .container8 .book .t1 {
+        margin-left: -235px !important;
+        margin-top: 15px !important;
+    }
+    .container8 .row {
+        width: 360px !important;
+        margin-left: 65px !important;
+    }
+    .container8 .row .col-6 .form-floating {
+        width: 107px !important;
+        margin-left: -50px !important;
+        padding-right: 0px !important;
+    }
+    .container8 .book .ucapan {
+        width: 263px !important;
+    }
+    .container8 .book .btn {
+        margin-left: 195px !important;
+    }
+
+    /* SCROLL */
+    .scroll {
+        width: 320px !important;
+        margin-left: -10px !important;
+        height: 300px !important;
+    }
+    .scroll .comment {
+        height: 300px !important;
+        width: 320px !important;
+        margin-left: 0px !important;
+    }
+    .scroll .comment .row .col-4 .img1 {
+        width: 28px !important;
+        margin-left: -110px !important;
+    }
+    .scroll .comment .row .col-4 .img2 {
+        width: 28px !important;
+        margin-left: -560px !important;
+        margin-top: 30px !important;
+    }
+    .scroll .comment .row .komen {
+        width: 238px !important;
+        margin-left: -55px !important;
+    }
+    .scroll .comment .row .komen1 {
+        width: 238px !important;
+        margin-left: -5px !important;
+        margin-top: -30px !important;
+    }
+    .scroll .comment .row .col-8 h6 {
+        font-size: 12px !important;
+        line-height: 18px !important;
+        font-weight: 600 !important;
+        margin-left: 0px !important;
+    }
+    .scroll .comment .row .t1 {
+        margin-left: -133px !important;
+    }
+
+    /* FOOTER */
+    .footer .img1 {
+        width: 180px !important;
+        margin-left: 45px !important;
+        margin-top: 50px !important;
+        position: relative;
+    }
+    .menu {
+        width: 350px !important;
+        margin-left: 0px !important;
+        position: fixed !important;
+    }
+    .menu .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+        position: fixed;
+        bottom: 0 !important;
+    }
+    .menu .row .col-1 {
+        width: 10px !important;
+        height: 45px !important;
+        margin-left: 20px !important;
+    }
+
+}

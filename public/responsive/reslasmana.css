@@ -1,0 +1,426 @@
+@media screen and (max-width: 922px) {
+}
+@media screen and (max-width: 576px) {
+}
+@media screen and (max-width: 350px) {
+    .lead {
+        width: 300px;
+    }
+    .navbar {
+        width: 330px;
+    }
+    .navbar .btn-nav {
+        width: 105px;
+        height: 31px;
+        font-size: 10px;
+    }
+    .navbar .container {
+        width: 330px;
+    }
+    #sampul .sampul-bg {
+        background-size: 50%;
+    }
+    #sampul .sampul {
+        width: 320px;
+    }
+    #sampul .sampul img {
+        width: 117px;
+        height: 173px;
+    }
+    #sampul .sampul .hari {
+        width: 320px;
+        font-size: 12px;
+    }
+    #sampul .sampul .tanggal {
+        width: 320px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    #sampul .sampul .hari::before {
+        width: 110px;
+        margin-left: 20px;
+        margin-bottom: -7px;
+    }
+    #sampul .sampul .hari::after {
+        display: block;
+        content: "";
+        border-bottom: 1px solid #ffffff;
+        width: 110px;
+        margin-left: 185px;
+        margin-top: -9px;
+    }
+    #sampul .sampul h3::before {
+        display: block;
+        content: "";
+        border-bottom: 0ch;
+        width: 0px;
+        margin-bottom: 0px;
+    }
+    #sampul .sampul h3::after {
+        display: block;
+        content: "";
+        border-bottom: 0ch;
+        width: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    #sampul .sampul h3 {
+        margin-left: 41px;
+        margin-top: 35px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        width: 247px;
+    }
+    #pasangan {
+        width: 350px;
+        padding-top: 0px;
+    }
+    #pasangan .row {
+        width: 350px;
+        height: 600px;
+        background-position: -200px 0px;
+    }
+    #pasangan .male {
+        width: 350px;
+        height: 450px;
+        padding-top: 300px;
+        background-size: 350px;
+        background-position: -30px 0px;
+        background: rgba(0, 0, 0, 0.3);
+    }
+    #pasangan .female {
+        width: 350px;
+        height: 150px;
+        background-size: 350px;
+        margin-top: 0px;
+        background-position: -30px 0px;
+        background: rgba(0, 0, 0, 0.3);
+    }
+    #pasangan .title {
+        width: 340px;
+        margin-left: -10px;
+        height: 100%;
+        padding-top: 0px;
+    }
+    #pasangan .pasangan-bg {
+        height: auto;
+        background-image: url(https://acarakami.com/wp-content/uploads/2020/03/pattern-white.png);
+        opacity: 0.05;
+        margin-top: 0px;
+    }
+    #pasangan .row h2 {
+        margin-top: 0px;
+        font-family: "Philosopher", sans-serif;
+    }
+    #doa {
+        background: #3c404b;
+        height: 380px;
+        padding-top: 55px;
+        width: 350px;
+    }
+    #doa .doa-bg {
+        height: 410px;
+        background-image: url(https://acarakami.com/wp-content/uploads/2020/03/pattern-white.png);
+        opacity: 0.05;
+        margin-top: -105px;
+        background-size: 50%;
+    }
+    #doa .wave {
+        transform: rotate(0.5turn);
+        bottom: 0;
+    }
+    #doa svg {
+        height: 30px;
+        width: 100%;
+    }
+    #doa path {
+        fill: #e9ccaa;
+    }
+    #doa .row {
+        width: 350px;
+        color: white;
+    }
+    #doa .row .img {
+        width: 107px;
+        height: 39px;
+        margin-bottom: 0px;
+        background-image: url(https://acarakami.com/wp-content/uploads/2020/08/Gunungan-Wayang.png);
+        filter: none;
+    }
+    #doa .row img {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 30px;
+        background-image: url(https://acarakami.com/wp-content/uploads/2020/08/Gunungan-Wayang.png);
+        filter: none;
+        margin-left: 135px;
+        margin-top: -30px;
+        opacity: 1;
+    }
+    #doa .row h1 {
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        width: 350px;
+        margin-top: 20px;
+    }
+    #doa .row h3 {
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 15px;
+        letter-spacing: 0px;
+        width: 290px;
+        margin-top: 40px;
+        left: 0;
+    }
+    /* undangan */
+    #undangan {
+        height: 1228px;
+        background: #e9ccaa;
+    }
+    #undangan .undangan-card {
+        top: 0;
+        width: 350px;
+        margin-left: 0px;
+        margin-top: 90px;
+    }
+    #undangan .undangan-card .sambutan h1 {
+        font-size: 25px;
+        font-family: "Philosopher", sans-serif;
+        font-weight: 400;
+        color: #3c404b;
+    }
+    #undangan .undangan-card .sambutan h3 {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        width: 290px;
+        line-height: 22px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 0px;
+        color: #646464;
+    }
+    #undangan .undangan-card .tanggal h2 {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        width: 350px;
+        line-height: 22px;
+        margin-top: 20px;
+        letter-spacing: 1px;
+        color: #646464;
+    }
+    #undangan .undangan-card .tanggal img {
+        margin: 25px 0px;
+        filter: brightness(-10%);
+        width: 73px;
+        height: 24px;
+    }
+    #undangan .undangan-card .penutup .head {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    #undangan .undangan-card .penutup h3 {
+        font-family: "Nunito Sans", sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        width: 290px;
+        line-height: 22px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 1px;
+        color: #646464;
+    }
+    #undangan .undangan-card .penutup h1 {
+        font-size: 25px;
+        font-family: "Philosopher", sans-serif;
+        font-weight: 400;
+        color: #3c404b;
+    }
+    #undangan .undangan-card .penutup img {
+        margin: 12px 0px 60px 0px;
+        filter: brightness(-1000%);
+        width: 73px;
+        height: 24px;
+    }
+    #undangan .undangan-card .penutup h2 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        margin: 0px 0px 30px 10px;
+        color: #373737;
+    }
+    #undangan .undangan-card .penutup .end {
+        font-family: "Philosopher", sans-serif;
+        color: #3c404b;
+        font-size: 20px;
+    }
+    #undangan .wave {
+        width: 100%;
+        bottom: 0;
+    }
+    #undangan .wave svg {
+        height: 40px;
+        width: 100%;
+        bottom: 0;
+    }
+    #undangan .wave svg path {
+        fill: #313131;
+        bottom: 0;
+    }
+    /* gallery */
+    #gallery {
+        height: 653px;
+        background: #e9ccaa;
+        padding-top: 100px;
+    }
+    #gallery h5 {
+        font-size: 13px;
+        font-family: "Nunito Sans", sans-serif;
+        letter-spacing: 1px;
+        color: #ffffff;
+        font-weight: 600;
+    }
+    #gallery h1 {
+        font-size: 40px;
+        font-family: "Nunito Sans", sans-serif;
+        color: #ffffff;
+        font-weight: 600;
+        margin-bottom: 70px;
+    }
+    #gallery .title-img {
+        width: 102px;
+        filter: brightness(200000%);
+        margin: 20px 0px 20px 0px;
+    }
+    .swiper-wrapper {
+        width: 350px;
+    }
+    .swiper {
+        width: 350px;
+        height: 60%;
+    }
+
+    .swiper-slide {
+        height: 247px !important;
+        width: 350px !important;
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 350px;
+        height: 100%;
+        object-fit: cover;
+    }
+    .swiper-pagination {
+        margin-top: -400px;
+    }
+
+    /* lokasi */
+    #lokasi {
+        height: 773px;
+        background: #e9ccaa;
+    }
+    #lokasi .map {
+        width: 350px;
+        height: 460px;
+        border-radius: 10px;
+    }
+    #lokasi iframe {
+        width: 350px;
+    }
+    #lokasi .title-img {
+        width: 102px;
+        filter: brightness(1);
+        opacity: 0.3;
+        padding-bottom: 50px;
+    }
+    #lokasi h1 {
+        font-size: 30px;
+        letter-spacing: 2px;
+        font-family: "Nunito Sans", sans-serif;
+        color: #d59d59;
+        font-weight: 600;
+        margin-top: -80px;
+        position: absolute;
+        width: 350px;
+    }
+    #lokasi .btn-second {
+        margin-top: 65px;
+    }
+    /* ucapan */
+    #ucapan {
+        background: #e9ccaa;
+        height: 587px;
+    }
+    #ucapan .ucapan-body {
+        top: 0;
+        width: 100%;
+    }
+    #ucapan .ucapan-body h1 {
+        margin: 110px 0px 50px 0px;
+        font-family: "Josefin Sans", sans-serif;
+        color: #7a7a7a;
+        font-weight: 600;
+    }
+    #ucapan .kehadiran {
+        width: 330px;
+        height: 380px;
+        padding-top: 35px;
+        background: white;
+        margin-left: 10px;
+        border-radius: 10px;
+    }
+    #ucapan .kehadiran .input1 {
+        border: 0ch;
+    }
+    #ucapan .kehadiran input {
+        border-radius: 1px;
+    }
+    #ucapan .kehadiran input::placeholder {
+        font-size: 13px;
+    }
+    #ucapan .kehadiran .mb-3 {
+        font-family: "Josefin Sans", sans-serif;
+        width: 275px;
+        margin: auto;
+        font-size: 13px;
+    }
+    #ucapan .kehadiran .btn-six {
+        width: 275px;
+        height: 59px;
+        margin-left: 30px;
+        margin-top: 14px;
+    }
+    #ucapan .ucapan-body h2 {
+        font-size: 90px;
+        font-family: "Ms Madi", cursive;
+        color: #7b6945;
+        margin-top: 70px;
+        margin-bottom: 20px;
+    }
+
+    /* footer */
+    #footer {
+        height: 235px;
+        padding-top: 83px;
+        background: #e9ccaa;
+    }
+    #footer h1 a {
+        font-family: "Marcellus", serif;
+        color: #7a7a7a;
+        font-size: 15px;
+    }
+    #footer h2 {
+        color: #7a7a7a;
+        font-size: 12px;
+    }
+}

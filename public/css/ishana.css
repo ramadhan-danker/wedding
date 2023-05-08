@@ -1,0 +1,398 @@
+/* sampul */
+.navbar {
+    z-index: 99999;
+    background: rgba(255, 255, 255, 0.5);
+    height: 108px;
+}
+.navbar .navbar-brand {
+    margin-left: -77px;
+}
+.navbar a {
+    font-family: "Marcellus", serif;
+    font-size: 25px;
+}
+.navbar .btn-nav {
+    width: 151px;
+    height: 42px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: -77px;
+}
+#sampul {
+    height: 657px;
+    background: #710d0d;
+}
+#sampul .sampul-bg {
+    height: 657px;
+    background-image: url(https://acarakami.com/wp-content/uploads/2020/03/pattern-white.png);
+    opacity: 0.05;
+}
+#sampul .sampul {
+    width: 684px;
+    color: white;
+}
+#sampul .sampul img {
+    width: 164px;
+    height: 164px;
+    margin-top: 100px;
+}
+#sampul .sampul h5 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 10px;
+    margin-top: 35px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+#sampul .sampul h1 {
+    font-family: "Philosopher", sans-serif;
+    font-size: 50px;
+    margin-top: 10px;
+    font-weight: 500;
+    width: 164px;
+    color: #d59d59;
+}
+#sampul .sampul .hari {
+    width: 684px;
+}
+#sampul .sampul .tanggal {
+    margin-top: 30px;
+}
+#sampul .sampul .hari::before {
+    display: block;
+    content: "";
+    border-bottom: 2px solid #d59d59;
+    width: 310px;
+    margin-bottom: -7px;
+}
+#sampul .sampul .hari::after {
+    display: block;
+    content: "";
+    border-bottom: 2px solid #d59d59;
+    width: 310px;
+    margin-left: 370px;
+    margin-top: -12px;
+}
+#sampul .sampul h2 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+#sampul .sampul h3 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 14px;
+    margin-top: 35px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+#sampul .sampul h3::before {
+    display: block;
+    content: "";
+    border-bottom: 2px solid #d59d59;
+    width: 190px;
+    margin-bottom: -7px;
+}
+#sampul .sampul h3::after {
+    display: block;
+    content: "";
+    border-bottom: 2px solid #d59d59;
+    width: 190px;
+    margin-left: 490px;
+    margin-top: -8px;
+}
+
+/* pasangan */
+#pasangan {
+    height: 681px;
+    padding-top: 130px;
+    background: #560808;
+}
+#pasangan .pasangan-bg {
+    top: 0;
+    height: 681px;
+    width: 100%;
+    background-image: url(https://acarakami.com/wp-content/uploads/2020/03/pattern-white.png);
+    opacity: 0.05;
+}
+#pasangan .row {
+    width: 700px;
+    color: white;
+}
+#pasangan .row .col-6 {
+    width: 350px;
+}
+#pasangan .row .col-6 h1 {
+    font-size: 40px;
+    font-family: "Philosopher", sans-serif;
+    color: #d59d59;
+}
+#pasangan .row .col-6 h2 {
+    font-size: 12px;
+    font-family: "Nunito Sans", sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+#pasangan .row .col-6 h3 {
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+/* doa */
+#doa {
+    height: 381px;
+    background: #560808;
+}
+#doa .doa-bg {
+    top: 0;
+    height: 681px;
+    width: 100%;
+    background-image: url(https://acarakami.com/wp-content/uploads/2020/03/pattern-white.png);
+    opacity: 0.05;
+}
+#doa img {
+    width: 80px;
+    margin-top: 65px;
+}
+#doa h3 {
+    font-size: 13px;
+    font-family: "Nunito Sans", sans-serif;
+    color: white;
+    font-weight: 400;
+    width: 680px;
+    margin-top: 35px;
+}
+#doa h2 {
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #d59d59;
+    font-weight: 600;
+    margin-top: 20px;
+}
+#doa svg {
+    height: 70px;
+    width: 100%;
+    margin-top: 40px;
+    transform: rotate(0.5turn);
+}
+#doa svg path {
+    fill: #710d0d;
+}
+
+/* undangan */
+#undangan {
+    height: 1142px;
+    background: #710d0d;
+}
+#undangan .undangan-card {
+    top: 0;
+    width: 660px;
+    background: #710d0d;
+    margin-left: 344.5px;
+    margin-top: 100px;
+}
+#undangan .undangan-card .sambutan h1 {
+    font-size: 40px;
+    font-family: "Philosopher", sans-serif;
+    color: #d59d59;
+}
+#undangan .undangan-card .sambutan h3 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 13px;
+    width: 680px;
+    line-height: 22px;
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+#undangan .undangan-card .tanggal h2 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 13px;
+    width: 680px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 22px;
+    color: #ffffff;
+}
+#undangan .undangan-card .tanggal img {
+    margin: 25px 0px;
+    filter: brightness(200000%);
+}
+#undangan .undangan-card .penutup .head {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#undangan .undangan-card .penutup h3 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 13px;
+    width: 680px;
+    line-height: 22px;
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+#undangan .undangan-card .penutup h1 {
+    font-size: 40px;
+    font-family: "Philosopher", sans-serif;
+    color: #d59d59;
+}
+#undangan .undangan-card .penutup img {
+    width: 88px;
+    height: 82px;
+    margin: 12px 0px 10px 0px;
+    filter: brightness(10000%);
+    opacity: 0.5;
+}
+#undangan .undangan-card .penutup h2 {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 0px 0px 30px 10px;
+    color: #ffffff;
+}
+#undangan .undangan-card .penutup .end {
+    font-family: "Philosopher", sans-serif;
+    color: #d59d59;
+    font-size: 20px;
+}
+
+/* gallery */
+#gallery {
+    height: 653px;
+    background: #560808;
+    padding-top: 100px;
+}
+#gallery h5 {
+    font-size: 13px;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 600;
+}
+#gallery h1 {
+    font-size: 40px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #d59d59;
+    font-weight: 600;
+}
+#gallery .title-img {
+    width: 102px;
+    filter: brightness(200000%);
+    margin-bottom: 80px;
+}
+.swiper {
+    width: 1140px;
+    height: 60%;
+}
+
+.swiper-slide {
+    height: 247px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.swiper-pagination {
+    margin-top: -400px;
+}
+
+/* gift */
+#gift {
+    background: #560808;
+    height: 628px;
+}
+#gift .gift {
+    width: 1138px;
+    height: 541px;
+    border: 2px solid #d59d59;
+    border-radius: 15px;
+}
+#gift .gift h3 {
+    font-size: 13px;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 20px;
+}
+#gift .gift h1 {
+    font-size: 40px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #d59d59;
+    font-weight: 600;
+}
+#gift .gift h2 {
+    font-size: 20px;
+    font-family: "Philosopher", sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    margin-top: 10px;
+}
+#gift .gift .title-img {
+    width: 102px;
+    filter: brightness(200000%);
+    margin: 25px 0px 80px 0px;
+}
+#gift .gift img {
+    display: block;
+}
+
+/* lokasi */
+#lokasi {
+    height: 773px;
+    background: #560808;
+}
+#lokasi .map {
+    width: 1140px;
+    height: 460px;
+    border-radius: 10px;
+}
+#lokasi .title-img {
+    width: 102px;
+    filter: brightness(200000%);
+}
+#lokasi h1 {
+    font-size: 40px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #d59d59;
+    font-weight: 600;
+    margin: 20px 0px 100px 0px;
+}
+#lokasi .btn-seven {
+    margin-top: 65px;
+    width: 272px;
+    height: 37px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 3px;
+}
+
+/* footer */
+#footer {
+    height: 235px;
+    padding-top: 83px;
+    background: #560808;
+}
+#footer h1 a {
+    font-family: "Marcellus", serif;
+    color: #d59d59;
+    font-size: 15px;
+}
+#footer h2 {
+    color: #d59d59;
+    font-size: 12px;
+}

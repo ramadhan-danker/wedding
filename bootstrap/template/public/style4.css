@@ -1,0 +1,152 @@
+@media screen and (max-width : 350px) {
+    #BERANDA {
+        background-size: cover !important;
+        background-size: 800px !important;
+        background-position-x:-220px !important;
+        background-position-y: -0px !important;
+    }
+    #BERANDA .sampul .bg-sampul {
+        width: 350px !important;
+        height: 540px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+    .sampul .wedding {
+        margin-left: 0px !important;
+        width: 350px !important;
+        margin-top: -150px !important;
+    }
+    .sampul .wedding .t1 {
+        font-size: 55px !important;
+        width: 310px !important;
+    }
+    .sampul .wedding .t2 {
+        width: 230px !important;
+        font-size: 15px !important;
+        margin-left: 70px !important;
+    }
+
+    .profile {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+    .profile .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .profile .row .romeo {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .profile .row .juliet {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .profile .row .doa h3 {
+        width: 250px !important;
+        margin-left: 30px !important;
+    }
+
+    .img1 {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .img1 img {
+        width: 100% !important;
+        height: 197px !important;
+    }
+    .img1 i {
+        width: 65px !important;
+        margin-left: -200px !important;
+        margin-top: 50px !important;
+    }
+
+    .salam {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 50px !important;
+    }
+    .salam .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+    }
+    .salam .t2 {
+        width: 250px !important;
+        margin-left: 50px !important;
+    }
+    .salam .t3 {
+        width: 250px !important;
+        margin-left: 50px !important;
+    }
+
+    .galeri {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 100px !important;
+    }
+    .galeri .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+    }
+    .galeri .swiper {
+        width: 330px !important;
+    }
+    .galeri .swiper-slide {
+        width: 340px !important;
+    }
+    .galeri .swiper .swiper-button-next::after {
+        width: 10px !important;
+        font-size: 20px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+    .galeri .swiper .swiper-button-prev::after {
+        font-size: 20px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+
+    .countdown {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .countdown .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+    }
+    .timer .row {
+        width: 350px !important;
+        margin-left: 10px !important;
+        
+    }
+    .timer .row .col-3 {
+        width: 85px !important;
+    }
+    .timer .row img {
+        width: 53px !important;
+        margin-left: -130px !important;
+        margin-top: 50px !important;
+    }
+    .timer .lokasi {
+        width: 350px !important;
+        margin-left: -10px !important;
+    }
+    .timer .lokasi h3 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+        margin-left: -20px !important;
+    }
+    .timer .lokasi iframe {
+        width: 350px !important;
+        margin-left: -10px !important;
+    }
+    .timer .icon {
+        width: 350px !important;
+        margin-left: 145px !important;
+    }
+}

@@ -1,0 +1,276 @@
+@media screen and (max-width: 922px) {
+}
+@media screen and (max-width: 576px) {
+}
+@media screen and (max-width: 350px) {
+    .lead {
+        width: 300px;
+    }
+    .navbar {
+        width: 330px !important;
+        height: 70px;
+        z-index: 99999;
+        background: rgba(255, 255, 255, 0.5);
+    }
+    .navbar a {
+        font-family: "Marcellus", serif;
+        font-size: 16px;
+    }
+    .navbar .navbar-brand {
+        margin-left: 0px;
+    }
+    .navbar .btn-nav {
+        width: 105px;
+        height: 31px;
+        font-size: 10px;
+        margin-right: 0px;
+    }
+    .navbar .container {
+        width: 330px;
+    }
+    #sampul .sampul-bg {
+        background-size: 50%;
+    }
+    #sampul .sampul {
+        width: 320px;
+    }
+    #sampul .sampul img {
+        width: 131px;
+        height: 131px;
+    }
+    #sampul .sampul .hari {
+        width: 320px;
+        font-size: 12px;
+    }
+    #sampul .sampul .tanggal {
+        width: 320px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    #sampul .sampul .hari::before {
+        width: 110px;
+        margin-left: 20px;
+        margin-bottom: -7px;
+    }
+    #sampul .sampul .hari::after {
+        display: block;
+        content: "";
+        border-bottom: 1px solid #ffffff;
+        width: 110px;
+        margin-left: 185px;
+        margin-top: -9px;
+    }
+    #sampul .sampul h3::before {
+        display: block;
+        content: "";
+        border-bottom: 0ch;
+        width: 0px;
+        margin-bottom: 0px;
+    }
+    #sampul .sampul h3::after {
+        display: block;
+        content: "";
+        border-bottom: 0ch;
+        width: 0px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    #sampul .sampul h3 {
+        margin-left: 41px;
+        margin-top: 35px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        width: 247px;
+    }
+    #pasangan {
+        height: 1050px;
+    }
+    #pasangan .pasangan-bg {
+        height: 1050px;
+    }
+    #pasangan .row {
+        width: 350px;
+    }
+    #doa h3 {
+        width: 320px;
+    }
+    #doa svg {
+        height: 30px;
+        width: 100%;
+        margin-top: 47px;
+        transform: rotate(0.5turn);
+    }
+    #undangan {
+        height: 1142px;
+        background: #710d0d;
+    }
+    #undangan .undangan-card {
+        top: 0;
+        width: 350px;
+        background: #710d0d;
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+    #undangan .undangan-card .sambutan h1 {
+        font-size: 25px;
+        font-family: "Philosopher", sans-serif;
+        color: #d59d59;
+    }
+    #undangan .undangan-card .sambutan h3 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 13px;
+        width: 290px;
+        line-height: 22px;
+        margin-bottom: 50px;
+        color: #ffffff;
+    }
+    #undangan .undangan-card .tanggal h2 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 13px;
+        width: 350px;
+        font-weight: 600;
+        letter-spacing: 2px;
+        line-height: 22px;
+        color: #ffffff;
+    }
+    #undangan .undangan-card .tanggal img {
+        margin: 25px 0px;
+        filter: brightness(200000%);
+        width: 73px;
+        height: 24px;
+    }
+    #undangan .undangan-card .penutup .head {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    #undangan .undangan-card .penutup h3 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 13px;
+        width: 290px;
+        line-height: 22px;
+        margin-bottom: 50px;
+        color: #ffffff;
+    }
+    #undangan .undangan-card .penutup h1 {
+        font-size: 25px;
+        font-family: "Philosopher", sans-serif;
+        color: #d59d59;
+    }
+    #undangan .undangan-card .penutup img {
+        width: 88px;
+        height: 82px;
+        margin: 12px 0px 10px 0px;
+        filter: brightness(10000%);
+        opacity: 0.5;
+    }
+    #undangan .undangan-card .penutup h2 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        margin: 0px 0px 30px 10px;
+        color: #ffffff;
+    }
+    #undangan .undangan-card .penutup .end {
+        font-family: "Philosopher", sans-serif;
+        color: #d59d59;
+        font-size: 20px;
+    }
+    .swiper-wrapper {
+        width: 350px;
+    }
+    .swiper {
+        width: 350px;
+        height: 60%;
+    }
+
+    .swiper-slide {
+        height: 247px !important;
+        width: 350px !important;
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 350px;
+        height: 100%;
+        object-fit: cover;
+    }
+    .swiper-pagination {
+        margin-top: -400px;
+    }
+    #gift {
+        background: #560808;
+        height: 528px;
+    }
+    #gift .gift {
+        width: 320px;
+        height: 449px;
+        border: 2px solid #d59d59;
+        border-radius: 15px;
+    }
+    #gift .gift h3 {
+        font-size: 13px;
+        font-family: "Nunito Sans", sans-serif;
+        letter-spacing: 1px;
+        color: #ffffff;
+        font-weight: 600;
+        margin-top: 20px;
+    }
+    #gift .gift h1 {
+        font-size: 23px;
+        font-family: "Nunito Sans", sans-serif;
+        color: #d59d59;
+        font-weight: 600;
+    }
+    #gift .gift h2 {
+        font-size: 20px;
+        font-family: "Philosopher", sans-serif;
+        color: #ffffff;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+    #gift .gift .title-img {
+        width: 70px;
+        height: 23px;
+        filter: brightness(200000%);
+        margin: 25px 0px 60px 0px;
+    }
+    #gift .gift img {
+        display: block;
+        width: 181px;
+        border-radius: 5px;
+    }
+    /* lokasi */
+    #lokasi {
+        height: 773px;
+        background: #560808;
+    }
+    #lokasi .map {
+        width: 350px;
+        height: 460px;
+        border-radius: 10px;
+    }
+    #lokasi .title-img {
+        width: 102px;
+        filter: brightness(200000%);
+    }
+    #lokasi h1 {
+        font-size: 40px;
+        font-family: "Nunito Sans", sans-serif;
+        color: #d59d59;
+        font-weight: 600;
+        margin: 20px 0px 100px 0px;
+    }
+    #lokasi .btn-second {
+        margin-top: 65px;
+    }
+    #lokasi iframe {
+        width: 350px;
+    }
+}

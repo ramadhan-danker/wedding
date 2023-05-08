@@ -1,0 +1,188 @@
+@media screen and (max-width : 350px) {
+    .sampul {
+        width: 350px !important;
+        margin-left: 0px !important;
+        position: absolute !important;
+    }
+    .sampul .beranda {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .sampul .beranda .background {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .sampul .beranda .background .img1 {
+        width: 130px !important;
+        margin-left: -0px !important;
+        margin-top: -615px !important;
+    }
+    .sampul .beranda .background .img2{
+        width: 130px !important;
+        margin-left: 85px !important;
+        margin-top: 570px !important;
+    }
+    .sampul .beranda .wedding {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: -650px !important;
+    }
+    .sampul .beranda .wedding .t2 {
+        width: 250px !important;
+        margin-left: 50px !important;
+        margin-top: 0px !important;
+    }
+    .sampul .beranda .wedding .t3 {
+        width: 350px !important;
+        margin-left: 00px !important;
+        margin-top: 60px !important;
+    }
+    .sampul .beranda .wedding .t1 {
+        width: 250px !important;
+        margin-left: 50px !important;
+        margin-top: 0px !important;
+        font-size: 55px !important;
+        line-height: 55px !important;
+    }
+    .sampul .beranda .wedding .t4 {
+        width: 290px !important;
+        margin-left: 30px !important;
+        margin-top: 50px !important;
+        font-size: 16px !important;
+        line-height: 22px !important;
+    }
+
+
+    .akad {
+        width: 350px !important;
+        margin-left: 0px !important;
+        padding-top: 740px !important;
+        position:  relative !important;
+    }
+    .akad .bg {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 0px !important;
+    }
+    .akad .bg .img1 {
+        width: 210px !important;
+        margin-left: 150px !important;
+        margin-top: -285px !important;
+    }
+    .akad .row {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .akad .romeo {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .akad .romeo img {
+        position: absolute !important;
+        margin-left: -55px !important;
+        margin-top: 0px !important;
+    }
+    .akad .romeo .t1 {
+        margin-top: 130px !important;
+    }
+    .akad .juliet {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 30px !important;
+    }
+
+
+    .salam {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 80px !important;
+    }
+    .salam .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+    .salam .t2 {
+        width: 250px !important;
+        margin-left: 50px !important;
+    }
+    .salam .t3 {
+        width: 250px !important;
+        margin-left: 50px !important;
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+
+    .galeri {
+        width: 350px !important;
+        margin-left: 0px !important;
+        margin-top: 100px !important;
+    }
+    .galeri .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+    }
+    .galeri .swiper {
+        width: 330px !important;
+    }
+    .galeri .swiper-slide {
+        width: 340px !important;
+        height: 209px !important;
+    }
+    .galeri .swiper-slide img {
+        width: 340px !important;
+        height: 209px !important;
+    }
+    .galeri .swiper .swiper-button-next::after {
+        width: 10px !important;
+        font-size: 20px !important;
+        margin-left: 0px !important;
+        margin-top: -80px !important;
+    }
+    .galeri .swiper .swiper-button-prev::after {
+        font-size: 20px !important;
+        margin-left: 0px !important;
+        margin-top: -80px !important;
+    }
+
+    .countdown {
+        width: 350px !important;
+        margin-left: 0px !important;
+    }
+    .countdown .t1 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+    }
+    .timer .row {
+        width: 350px !important;
+        margin-left: 10px !important;
+        
+    }
+    .timer .row .col-3 {
+        width: 85px !important;
+    }
+    .timer .row img {
+        width: 53px !important;
+        margin-left: -130px !important;
+        margin-top: 50px !important;
+    }
+    .timer .lokasi {
+        width: 350px !important;
+        margin-left: -10px !important;
+    }
+    .timer .lokasi h3 {
+        font-size: 30px !important;
+        line-height: 30px !important;
+        width: 350px !important;
+        margin-left: -20px !important;
+    }
+    .timer .lokasi iframe {
+        width: 350px !important;
+        margin-left: -10px !important;
+    }
+    .icon {
+        width: 350px !important;
+        margin-left: 165px !important;
+    }
+}

@@ -1,0 +1,542 @@
+.navbar {
+    z-index: 999999;
+    width: 1349px;
+    background: rgba(255, 255, 255, 0.7);
+    height: 108px;
+}
+.navbar .btn-nav {
+    width: 151px;
+    height: 42px;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: 500;
+}
+/* sampul */
+#sampul .second {
+    background: #fff6e3;
+    margin-left: -24px;
+    width: 698px;
+}
+#sampul .sampul-cover {
+    background-image: url(https://acarakami.com/wp-content/uploads/2021/12/pexels-kulbir.jpg);
+    opacity: 0.2;
+    background-size: 800px;
+    height: 100%;
+    width: 698px;
+}
+#sampul .sampul-title {
+    width: 482px;
+    top: 0;
+    margin-left: 100px;
+}
+#sampul h5 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: rgb(119, 119, 119);
+}
+#sampul .head1 {
+    margin-top: 150px;
+}
+#sampul .head2 {
+    margin-top: 100px;
+}
+#sampul .head3 {
+    margin-top: 80px;
+}
+#sampul h1 {
+    font-family: "Ms Madi", cursive;
+    font-size: 115px;
+    line-height: 70px;
+    margin-top: 60px;
+    color: #968668;
+}
+#sampul h4 {
+    margin-top: 70px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: rgb(119, 119, 119);
+}
+#sampul h3 {
+    color: #968668;
+}
+
+/* pasangan */
+#pasangan {
+    height: 639px;
+    padding-top: 130px;
+}
+#pasangan .row {
+    width: 660px;
+    color: white;
+}
+
+#pasangan .title {
+    width: 280px;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    margin-left: -12px;
+    padding-top: 270px;
+}
+#pasangan .row h1 {
+    font-size: 45px;
+    font-family: "Ms Madi", cursive;
+}
+#pasangan .row h2 {
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 600;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+#pasangan .row h3 {
+    font-size: 12px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    margin-top: -11px;
+}
+#pasangan .row h4 {
+    font-size: 13px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 600;
+    margin-top: -11px;
+    margin-bottom: 26px;
+}
+
+/* doa */
+#doa {
+    height: 560px;
+}
+#doa .doa {
+    width: 660px;
+    height: 470px;
+    background: #f5f2ec;
+    color: #7a7a7a;
+}
+#doa .doa .doa-title {
+    top: 0;
+    padding: 70px;
+}
+#doa .doa .doa-bg {
+    background-image: url(https://acarakami.com/wp-content/uploads/2022/05/contour-new-bottom.png);
+    background-size: cover;
+    width: 660px;
+    height: 470px;
+    padding: 70px;
+    opacity: 0.1;
+}
+#doa .doa h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 50px;
+}
+#doa .doa h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+#doa .doa .blockquote-footer {
+    margin-top: 20px;
+    font-family: "Ms Madi", cursive;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* video */
+#video {
+    height: 670px;
+}
+#video a {
+    color: white;
+}
+#video .video {
+    background-image: url(https://acarakami.com/wp-content/uploads/2022/01/pexels-kamizzle-9714048-acarakami.jpg);
+    background-size: cover;
+    background-position: 0px -400px;
+    width: 980px;
+    height: 551px;
+    padding-top: 250px;
+}
+#video .video .play {
+    width: 65px;
+    height: 65px;
+    background: rgba(0, 0, 0, 0);
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: auto;
+}
+#video .video .play i {
+    line-height: 57px;
+    margin-left: 5px;
+}
+
+/* undangan */
+#undangan {
+    height: 1504px;
+}
+#undangan .undangan-bg {
+    height: 1504px;
+    background-image: url(https://acarakami.com/wp-content/uploads/2021/12/pexels-kulbir.jpg);
+    background-size: cover;
+    opacity: 0.3;
+}
+#undangan .undangan-card {
+    top: 0;
+    width: 660px;
+    background: white;
+    margin-left: 344.5px;
+    margin-top: 100px;
+}
+#undangan .undangan-card .sambutan h1 {
+    font-family: "Ms Madi", cursive;
+    font-size: 70px;
+    margin-top: 40px;
+    color: #968668;
+}
+#undangan .undangan-card .sambutan .row .circle {
+    width: 46px;
+    height: 46px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 50%;
+    border: 2px solid #7a7a7a;
+}
+#undangan .undangan-card .sambutan .row {
+    width: 72px;
+    margin-bottom: 30px;
+}
+#undangan .undangan-card .sambutan .row .circle2 {
+    width: 46px;
+    height: 46px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 50%;
+    border: 2px solid #7a7a7a;
+    margin-left: -20px;
+}
+#undangan .undangan-card .sambutan h3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    width: 520px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #7a7a7a;
+}
+#undangan .undangan-card .tanggal-tempat h3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: #7a7a7a;
+}
+#undangan .undangan-card .tanggal-tempat .row {
+    margin-top: 12px;
+    width: 350px;
+    color: #7a7a7a;
+}
+#undangan .undangan-card .tanggal-tempat .btn-second {
+    margin-top: 25px;
+}
+#undangan .undangan-card .tanggal-tempat img {
+    width: 88px;
+    height: 82px;
+    margin: 12px 0px 10px 0px;
+    filter: brightness(-1000%);
+    opacity: 0.5;
+}
+#undangan .undangan-card .penutup .head {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    width: 520px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: #7a7a7a;
+}
+#undangan .undangan-card .penutup h3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    width: 520px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    color: #7a7a7a;
+}
+#undangan .undangan-card .penutup h1 {
+    font-family: "Ms Madi", cursive;
+    font-size: 70px;
+    margin-top: 40px;
+    width: 500px;
+    color: #968668;
+}
+#undangan .undangan-card .penutup img {
+    width: 88px;
+    height: 82px;
+    margin: 12px 0px 10px 0px;
+    filter: brightness(-1000%);
+    opacity: 0.5;
+}
+#undangan .undangan-card .penutup h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    margin-top: 30px;
+    color: #7a7a7a;
+}
+
+/* gallery */
+#gallery {
+    height: 1158px;
+}
+#gallery h5 {
+    font-size: 15px;
+    font-family: "Josefin Sans", sans-serif;
+    letter-spacing: 2px;
+    color: #7a7a7a;
+    font-weight: 600;
+    margin-top: 100px;
+}
+#gallery h1 {
+    font-size: 90px;
+    font-family: "Ms Madi", cursive;
+    color: #7b6945;
+    line-height: 60px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.swiper {
+    width: 100%;
+    height: 70%;
+}
+
+.swiper-slide {
+    height: 703px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.swiper-pagination {
+    margin-top: -600px;
+}
+
+/* lokasi */
+#lokasi {
+    height: 773px;
+}
+#lokasi h1 {
+    font-family: "Ms Madi", cursive;
+    font-size: 70px;
+    margin: 100px 0px 50px 0px;
+    color: #968668;
+}
+#lokasi .btn-second {
+    margin-top: 65px;
+}
+
+/* ucapan */
+#ucapan {
+    background: #f3f1eb;
+    height: 1356px;
+}
+#ucapan .ucapan-bg {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://acarakami.com/wp-content/uploads/2021/12/pexels-kulbir.jpg);
+    background-size: cover;
+    opacity: 0.2;
+}
+#ucapan .ucapan-body {
+    top: 0;
+    width: 100%;
+}
+#ucapan .ucapan-body h1 {
+    margin: 110px 0px 50px 0px;
+    font-family: "Josefin Sans", sans-serif;
+    color: #7a7a7a;
+    font-weight: 600;
+}
+#ucapan .kehadiran {
+    width: 1100px;
+    height: 380px;
+    padding-top: 35px;
+    background: white;
+    margin-left: 124.5px;
+}
+#ucapan .kehadiran .input1 {
+    border: 0ch;
+}
+#ucapan .kehadiran input {
+    border-radius: 1px;
+}
+#ucapan .kehadiran input::placeholder {
+    font-size: 13px;
+}
+#ucapan .kehadiran .mb-3 {
+    font-family: "Josefin Sans", sans-serif;
+    width: 1025px;
+    margin: auto;
+    font-size: 13px;
+}
+#ucapan .kehadiran .btn-second {
+    width: 1025px;
+    height: 59px;
+    margin-left: 38px;
+    margin-top: 14px;
+}
+#ucapan .ucapan-body h2 {
+    font-size: 90px;
+    font-family: "Ms Madi", cursive;
+    color: #7b6945;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+#ucapan .kartu-ucapan {
+    width: 1118px;
+    background: #f5f3ee;
+    margin-left: 124.5px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+#ucapan .kartu-ucapan .heading {
+    width: 1118px;
+    height: 37px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-top: 6px;
+    margin-bottom: 19px;
+}
+#ucapan .kartu-ucapan .heading img {
+    width: 14px;
+    height: 14px;
+    margin-left: 15px;
+    filter: invert(43%) sepia(23%) saturate(714%) hue-rotate(2deg)
+        brightness(89%) contrast(83%);
+}
+#ucapan .kartu-ucapan .heading span {
+    font-family: "Merriweather", serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #7b6945;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body .mb-3 {
+    font-family: "Merriweather", serif;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body input {
+    width: 1088px;
+    height: 28px;
+    border-radius: 3px;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body input::placeholder {
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body textarea {
+    width: 1088px;
+    border-radius: 3px;
+    margin-left: 14px;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body textarea::placeholder {
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body select {
+    width: 1088px;
+    border-radius: 3px;
+    margin-left: 14px;
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.5;
+}
+#ucapan .kartu-ucapan .kartu-ucapan-body .btn-third {
+    margin-left: 16px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    padding: 5px 15px 5px 15px;
+    font-weight: 600;
+}
+#ucapan .kartu-ucapan-comment {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    margin-top: 70px;
+}
+#ucapan .kartu-ucapan-comment .comment1 {
+    width: 1130px;
+}
+#ucapan .kartu-ucapan-comment .comment {
+    width: 1130px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+#ucapan .kartu-ucapan-comment .comment .col-1,
+#ucapan .kartu-ucapan-comment .comment1 .col-1 {
+    width: 50px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+#ucapan .kartu-ucapan-comment .comment .col-11,
+#ucapan .kartu-ucapan-comment .comment1 .col-11 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#ucapan .kartu-ucapan-comment img {
+    width: 18px;
+    height: 18px;
+    filter: invert(43%) sepia(23%) saturate(714%) hue-rotate(2deg)
+        brightness(89%) contrast(83%);
+}
+#ucapan .kartu-ucapan-comment .btn-third {
+    width: 50px;
+    height: 20px;
+    font-size: 10px;
+    font-family: "Merriweather", serif;
+    padding: 0px 0px 0px 0px;
+    margin-top: 3px;
+}
+#ucapan .kartu-ucapan-comment h5 {
+    width: 60px;
+    font-size: 12px;
+    font-family: "Merriweather", serif;
+    color: #7b6945;
+    font-weight: 600;
+    margin-top: 5px;
+}
+#ucapan .kartu-ucapan-comment .bi-clock {
+    font-size: 10px;
+    text-decoration: none;
+    margin-bottom: 17px;
+    color: #7b6945;
+    font-family: "Merriweather", serif;
+}
+#ucapan .kartu-ucapan-comment p {
+    font-size: 12px;
+    font-family: "Merriweather", serif;
+}
+
+/* footer */
+#footer {
+    height: 235px;
+    padding-top: 83px;
+}
+#footer h1 a {
+    font-family: "Marcellus", serif;
+    color: #7a7a7a;
+    font-size: 15px;
+}
+#footer h2 {
+    color: #7a7a7a;
+    font-size: 12px;
+}
